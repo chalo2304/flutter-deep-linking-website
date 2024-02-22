@@ -1,0 +1,10 @@
+[{
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.thalo.miscelaneos",
+      "sha256_cert_fingerprints":
+      ["62:74:E9:E9:6D:1C:EE:F4:36:B3:98:CC:57:34:07:63:A2:51:7B:ED:04:57:67:11:08:DF:1F:F2:51:93:1C:4F"]
+    }
+  }]
+  
